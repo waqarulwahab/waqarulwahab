@@ -6,19 +6,29 @@
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/waqar-ul-wahab-software-engineer" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-ul-wahab" height="20" width="20"/>
+    <a href="https://www.linkedin.com/in/waqar-ul-wahab-software-engineer" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-ul-wahab-software-engineer" height="20" width="20"/>
     </a>
-    <a href="https://kaggle.com/waqarulwahab" target="blank">
+    <a href="https://kaggle.com/waqarulwahab" target="_blank">
         <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waqarulwahab" height="20" width="20" />
     </a>
-    <a href="https://www.facebook.com/waqar.wahab412/" target="blank">
-        <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar wahab" height="20" width="20" />
+    <a href="https://www.facebook.com/waqar.wahab412/" target="_blank">
+        <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar.wahab412" height="20" width="20" />
     </a>
-    <a href="https://instagram.com/waqar.ul.wahab" target="blank">
+    <a href="https://instagram.com/waqar.ul.wahab" target="_blank">
         <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqar.ul.wahab" height="20" width="20" />
     </a>
 </div>
+
+
+- 🌱 I’m currently learning **DevOPs**
+
+- 👯 I’m looking to collaborate on [CrowdXO](https://web3music-a6fac359a55e.herokuapp.com/)
+
+- 💬 Ask me about **Python**
+
+- ⚡ Fun fact **Dont Distrub Me while coding.**
+
 
 
 <img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" alt="Coding Image">
@@ -29,13 +39,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DevOPs**
 
-- 👯 I’m looking to collaborate on [CrowdXO](https://web3music-a6fac359a55e.herokuapp.com/)
-
-- 💬 Ask me about **Python**
-
-- ⚡ Fun fact **Dont Distrub Me while coding.**
 
 
 <br>
