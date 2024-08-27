@@ -44,37 +44,6 @@
 
 <br>
 
-
-<!-- Azure -->
-<!-- Bootstrap -->
-<!-- Charts Js -->
-<!-- C++ -->
-<!-- CSS -->
-<!-- DJANGO -->
-<!-- Docker -->
-<!-- Figma -->
-<!-- Firebase -->
-<!-- Flask -->
-<!-- GIT -->
-<!-- Heroku -->
-<!-- HTML -->
-<!-- ILLUSTRATOR -->
-<!-- JAVA SCRIPT -->
-<!-- KUBERNET -->
-<!-- LINUX -->
-<!-- MATLAB -->
-<!-- MONGODB --> 
-<!-- MYSQL -->
-<!-- PANDAS -->
-<!-- PHOTOSHOP -->
-<!-- POSTGRESS -->
-<!-- POSTMAN -->
-<!-- PYTHON -->
-<!-- REACT -->
-<!-- SCIKIT LEARN -->
-<!-- SEABORN -->
-
-
 <h1 align="left">Programming Languages:</h1>
 <div align="left" class="programming_languages">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
@@ -117,13 +86,13 @@
 
 
 
-<h1 align="left">DevOps and Cloud Tools:</h1>
-<p align="left"></p>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>  <!-- Azure -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <!-- Docker -->
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> <!-- KUBERNET -->
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>   <!-- Heroku -->
-</p>
+<div>
+    <h1 align="left">DevOps and Cloud Tools:</h1>
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>  <!-- Azure -->
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><!-- Docker -->
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <!-- KUBERNET -->
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>   <!-- Heroku -->
+</div>
 
 
 
