@@ -1,5 +1,5 @@
 
-<body>
+
     <h1 align="left">Programming Languages:</h1>
     <div align="left" class="programming_languages">
         <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg"/> <!-- PYTHON -->
@@ -12,5 +12,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
              alt="html5"/> <!-- HTML -->
     </div>
-</body>
-</html>
+
