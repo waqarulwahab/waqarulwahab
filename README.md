@@ -1,9 +1,4 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programming Languages</title>
-</head>
+
 <body>
     <h1 align="left">Programming Languages:</h1>
     <div align="left" class="programming_languages">
