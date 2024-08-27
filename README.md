@@ -62,39 +62,43 @@
 
 
 <h1 align="left">Programming Languages:</h1>
-<div align="left" class="programming_langauges">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"        width="100px" height="100px" alt="python"/> <!-- PYTHON -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="100px" height="100px" alt="cplusplus"/> <!-- C++ -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"width="100px" height="100px" alt="javascript"/> <!-- JAVA SCRIPT -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"   width="100px" height="100px" alt="css3"/>      <!-- CSS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="100px" height="100px" alt="html5"/> <!-- HTML -->
-<div>
+<div align="left" class="programming_languages">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         width="100px" height="100px" alt="python" style="margin: 10px; padding: 10px;"/> <!-- PYTHON -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+         width="100px" height="100px" alt="cplusplus" style="margin: 10px; padding: 10px;"/> <!-- C++ -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         width="100px" height="100px" alt="javascript" style="margin: 10px; padding: 10px;"/> <!-- JAVA SCRIPT -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+         width="100px" height="100px" alt="css3" style="margin: 10px; padding: 10px;"/> <!-- CSS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+         width="100px" height="100px" alt="html5" style="margin: 10px; padding: 10px;"/> <!-- HTML -->
+</div>
 
 
 
 
 
 
-<h1 align="left">Frameworks and Libraries:</h1>
-<p align="left"></p>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <!-- DJANGO -->
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>  <!-- Flask -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <!-- REACT -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <!-- Bootstrap -->
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>  <!-- Charts Js -->
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <!-- SCIKIT LEARN -->
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> <!-- SEABORN -->
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <!-- PANDAS -->
-</p>
-
-
-
-<h1 align="left">Databases:</h1>
-<p align="left"></p>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <!-- MONGODB -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <!-- MYSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <!-- POSTGRESS -->
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <h1 align="left">Frameworks and Libraries:</h1>
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><!-- DJANGO -->
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/><!-- Flask -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><!-- REACT -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><!-- Bootstrap -->
+            <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/><!-- Charts Js -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/><!-- SCIKIT LEARN -->
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <!-- SEABORN -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><!-- PANDAS -->
+    </div>
+    <div style="flex: 1;">
+        <h1 align="left">Databases:</h1>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><!-- MONGODB -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><!-- MYSQL -->
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><!-- POSTGRESS -->
+    </div>
+</div>
 
 
 
