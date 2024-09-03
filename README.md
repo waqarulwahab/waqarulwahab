@@ -22,15 +22,18 @@
 - ⚡ Fun fact **Dont Distrub Me while coding.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/waqar-ul-wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-ul-wahab" height="30" width="40" /></a>
-<a href="https://kaggle.com/waqarulwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waqarulwahab" height="30" width="40" /></a>
-<a href="https://fb.com/waqar wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar wahab" height="30" width="40" /></a>
-<a href="https://instagram.com/waqar.ul.wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqar.ul.wahab" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
+
+
+<div align="right">
+    <a href="https://linkedin.com/in/waqar-ul-wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-ul-wahab" height="30" width="40" /></a>
+    <a href="https://kaggle.com/waqarulwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waqarulwahab" height="30" width="40" /></a>
+    <a href="https://fb.com/waqar wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar wahab" height="30" width="40" /></a>
+    <a href="https://instagram.com/waqar.ul.wahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqar.ul.wahab" height="30" width="40" /></a>
+</div>
 
 <p align="center">
         <!-- GIT -->
