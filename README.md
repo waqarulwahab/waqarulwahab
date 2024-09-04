@@ -26,19 +26,28 @@
 
 <h1>TEST</h1>
 <div align="left">
-    <a href="https://linkedin.com/in/waqar-ul-wahab" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqar-ul-wahab" height="40" width="50" style="border: 2px solid black; padding: 5px;" />
+    <a href="https://linkedin.com/in/waqar-ul-wahab" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             alt="waqar-ul-wahab" height="50" width="60" 
+             style="border-right: 2px solid black; padding-right: 10px;" />
     </a>
-    <a href="https://kaggle.com/waqarulwahab" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waqarulwahab" height="40" width="50" style="border: 2px solid black; padding: 5px;" />
+    <a href="https://kaggle.com/waqarulwahab" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
+             alt="waqarulwahab" height="50" width="60" 
+             style="border-right: 2px solid black; padding-right: 10px;" />
     </a>
-    <a href="https://fb.com/waqar wahab" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waqar wahab" height="40" width="50" style="border: 2px solid black; padding: 5px;" />
+    <a href="https://fb.com/waqarwahab" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+             alt="waqar wahab" height="50" width="60" 
+             style="border-right: 2px solid black; padding-right: 10px;" />
     </a>
-    <a href="https://instagram.com/waqar.ul.wahab" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waqar.ul.wahab" height="40" width="50" style="border: 2px solid black; padding: 5px;" />
+    <a href="https://instagram.com/waqar.ul.wahab" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+             alt="waqar.ul.wahab" height="50" width="60" 
+             style="border-right: 2px solid black; padding-right: 10px;" />
     </a>
 </div>
+
 
 
 
